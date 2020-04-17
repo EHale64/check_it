@@ -24,8 +24,16 @@ After you have looked at all examples, answer the following questions:
 ## Check for Understanding
 
 * What is the `check_it` algorithm checking?
+
+`check_it` is looking at curly brackets, square brackets, and parenthisis to see if every istnace of each asserted is open or closed.
+
 * What other applications could this algorithm have?
+
+Not sure.
+
 * What kinds of problems are Stacks good at?
+
+Boolean problems.
 
 #### Bonus
 
